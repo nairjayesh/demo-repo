@@ -1,3 +1,5 @@
-#Understandin Git and Github
+# Understanding Git and Github
 
 via the freecodecamp video
+
+instructor: faraday academy
